@@ -1,5 +1,8 @@
 # Rogue-like Game
 
+![CleanShot 2024-05-31 at 17 29 10](https://github.com/njfio/RogueGameProject-GeneratedExample-FluentCLI/assets/7220/38c23514-cb28-4d65-bce6-638005ae1a35)
+
+
 Welcome to the Rogue-like Game! This readme provides instructions for setting up and playing the game.
 
 ## Table of Contents
